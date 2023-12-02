@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { App } from 'components/App';
-import { GlobalStyle } from 'GlobalStyleComponent';
+import { GlobalStyle } from 'Styles/GlobalStyleComponent';
 import 'normalize.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
